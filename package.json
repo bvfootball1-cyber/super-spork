@@ -10,8 +10,16 @@
         "dev": "nodemon"
     },
     "dependencies": {
+        "@tonejs/midi": "^2.0.28",
+        "audiobuffer-to-wav": "^1.0.0",
         "ejs": "^3.1.10",
-        "express": "^4.21.2"
+        "express": "^4.21.2",
+        "midi-writer-js": "^3.1.1",
+        "node-wav": "^0.0.2",
+        "tonal": "^6.4.2",
+        "wav": "^1.0.2",
+        "wavefile": "^11.0.0",
+        "web-audio-api": "^0.2.2"
     },
     "devDependencies": {
         "nodemon": "^2.0.19"
