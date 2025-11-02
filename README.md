@@ -88,8 +88,10 @@ The application runs on port 3000 by default, or uses the PORT environment varia
 PORT=8080 npm start
 ```
 
-## 📚 Learn More
+## 📚 Additional Resources
 
+- **[TERMINAL-COMMANDS.md](TERMINAL-COMMANDS.md)** - Complete copy-paste terminal commands reference
+- **[QUICKSTART.md](QUICKSTART.md)** - Quick reference guide with troubleshooting
 - [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)
 - [Azure App Service Documentation](https://docs.microsoft.com/en-us/azure/app-service/)
 
